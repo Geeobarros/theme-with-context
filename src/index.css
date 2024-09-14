@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.claro {
+  background-color: rgb(228, 115, 228);
+  color: black;
+}
+
+.escuro {
+  background-color:  black;
+  color: white;
+}
+
+
+
+div {
+  width: 100%;
+  height: 100vw;
+  padding-top: 20px;
+
+ 
+}
+
+button {
+  border: 2px solid black;
+  background-color: rgb(255, 253, 251);
+  color: black;
+}
